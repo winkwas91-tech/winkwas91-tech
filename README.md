@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi, I'm Nikita 👋
+
+I'm preparing to study **Computer Science** and currently focused on improving my programming skills.
+
+- 🐍 Learning Python
+- 🧠 Studying algorithms and data structures
+- 💻 Building small projects to practice
+- 🎯 Goal: become a strong software engineer
+
+I'm at the beginning of my path, but I work consistently and take learning seriously.## Hi there 👋
 
 <!--
 **winkwas91-tech/winkwas91-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
